@@ -1,4 +1,4 @@
-### Hello Visitors
+## Hello Visitors
 - This is a Address Book managing API.
 - Here you have to create a account to store contact details and manage it.
 - We have API for all CRUD operations.
@@ -7,6 +7,11 @@
 
 ### Follow the below steps to interact with API
 <br/>
+
+- Run following command to install package dependencies.
+```console 
+npm install 
+```
 
 ## 1.) Register - http://localhost:7000/user/register/
 - This is a Account registering API, use Phone no. and Password to register.
